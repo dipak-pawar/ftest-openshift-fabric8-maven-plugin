@@ -1,0 +1,1 @@
+# ftest-openshift-fabric8-maven-plugin
